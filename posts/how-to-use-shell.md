@@ -176,7 +176,7 @@
       而做到这一点的方式非常的粗暴: 凡是以 `.` 开头的文件都不会显示.
 
       Read more:
-      + [file_ignored | ls.c](https://github.com/coreutils/coreutils/blob/5cecd703e57b2e1301767d82cbe5bb01cae88472/src/ls.c#L3183)
+      + [file_ignored (ls.c)](https://github.com/coreutils/coreutils/blob/5cecd703e57b2e1301767d82cbe5bb01cae88472/src/ls.c#L3183)
       + [Linux History: How Dot Files Became Hidden Files](https://linux-audit.com/linux-history-how-dot-files-became-hidden-files/)
       </div>
       </details>
